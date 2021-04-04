@@ -137,7 +137,11 @@ nav ul.inline li a {
   display: block;
 }
 
+      .paper {
+        background: #a5d8ff;
+      }
+    
       .navbar {
-        background: #BOC4DE;
+        background: #15aabf;
       }
     
